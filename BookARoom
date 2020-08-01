@@ -1,0 +1,12 @@
+public class HappyAgain{
+
+    public static void main(String[] args) {
+
+        System.out.println("iyi olacak insAllah");
+
+
+
+
+        // more line
+    }
+}
